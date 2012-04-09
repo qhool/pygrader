@@ -1,0 +1,8 @@
+This is the tool which I created when teaching an introduction to programming course.  It is designed to:
+
+* pull student assignments from a git repo
+* run automated checks on them
+* assist with composing additional feedback
+* push results and feedback back to student repositories
+
+It also has some miscellany, like generating ascii-art graphs of student scores.

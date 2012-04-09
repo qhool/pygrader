@@ -1,0 +1,12 @@
+{ 
+  "repository": {
+    "user": "jb",	
+    "host": "131.247.152.60",
+    "path": "/home/git/classes/201108/intro",
+    "exclude": ["tuser","tools","solutions"] 
+    },
+  "system": {
+    "ssh": "/usr/bin/ssh",
+    "git": "/usr/bin/git"
+  }
+}
